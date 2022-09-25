@@ -1,7 +1,6 @@
 {
   "name": "danielriezebos/configurationhistory",
   "description": "Trust but verify - See Who changed What, When & How in the Magento 2 configuration.",
-  "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
     {
